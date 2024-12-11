@@ -12,7 +12,7 @@ I preprocessed the dataset images according to the model and encoded the labels 
 ### Model Architecture
 The model itself is composed of various layers including Conv2D,MaxPooling,BatchNormalization and Dropout. It also uses early stopping callbacks to prevent overfitting.
 
-![alt text](<Screenshot (141)-1.png>)
+![alt text]()
 
 ## Performance
 The model gives 81.00% accuracy on the testing data and a loss of 0.377.
@@ -20,7 +20,7 @@ The model gives 81.00% accuracy on the testing data and a loss of 0.377.
 ## Output Images
 
 
- ![alt text](output-1.png)
+ ![alt text](Final_assignment/240674_NainaBhalla/Output_Images/sample_output_with_multiple_faces.png)
 
- ![alt text](sample_output_with_multiple_faces.png)
+ ![alt text](Final_assignment/240674_NainaBhalla/Output_Images/output.png)
 
