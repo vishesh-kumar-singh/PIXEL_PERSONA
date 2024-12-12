@@ -6,9 +6,6 @@
 2. [Features](#features)
 3. [Dataset](#dataset)
 4. [Contents of the Folder](#contents-of-the-folder)
-    - [model.ipynb](#modelipynb)
-    - [Results folder](#results-folder)
-    - [Live_Gender_Detection.mp4](#live_gender_detectionmp4)
 5. [Summary of the Model](#summary-of-the-model)
 6. [Made by](#made-by)
 
