@@ -18,16 +18,16 @@
 ### Testing Accuracy: 92.80%
 
 ## Instructions for operating the model
-### Please load the .ipynb file, Group Photos folder, gender_dataset and the API token named "kaggle" on Google Colab and store them under contents folder
-### Ensure that the Group Photos folder contains a single image having name like "n.jpg" where n is a positive single digit number
+### Please load the .ipynb file, Group Photos folder, gender_dataset and the API token named "kaggle" on Google Colab and store them under contents folder. Log into your kaggle account and then, go to settings to create the API token.
+### Ensure that the Group Photos folder contains one image having name like "n.jpg" where n is a positive single digit number (9.jpg).
 ### You can run the file using the Run all button under the Runtime tab.
-### For running the model again, delete the folders Group Photos, Output images, gender_dataset.zip and gender_dataset using the commands (after uncommenting them) at the bottom of the program. Then, recreate the Group Photos folder the group photo stored in it in the same format as described earlier. Also, upload the kaggle token and then click the Run all button under Runtime tab.
+### For running the model again, delete the Group Photos folder, Output images folder, gender_dataset.zip and gender_dataset folder using the commands (after uncommenting them) at the bottom of the program. Then, recreate the Group Photos folder and store the group photo in it in the same format as described earlier. Also, upload the kaggle token "kaggle" and then click the Run all button under Runtime tab.
 
 ## Directory Structure
 ### 1. gender_dataset: Contains the data imported from [Kaggle](https://www.kaggle.com/datasets/yasserhessein/gender-dataset) along with some preprocessed images in subfolders
 ### 2. Group Photos: Contains the pre-processed group photograph used in the program
-### 3. Output images: Contains some single and 1 group photograph after it has been processed by the model.
-### 4. gender_dataset.zip: Zipped form of the data downloaded from Kaggle
+### 3. Output images: Contains 20 single photos and 1 group photograph after it has been processed by the model.
+### 4. gender_dataset.zip: Zipped form of the dataset downloaded from Kaggle
 ### 5. .ipynb file: contains code of the program
 
 ## About the Creator
