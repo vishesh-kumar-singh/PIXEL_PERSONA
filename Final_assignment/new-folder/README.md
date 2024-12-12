@@ -2,21 +2,11 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Requirements](#requirements)
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Train the Model](#train-the-model)
-- [Test the Model](#test-the-model)
-- [Live Prediction](#live-prediction)
-- [License](#license)
 
 ---
 
 ## Project Overview
-This project is a part of Winter Projects, 2024 by Institute Consulting group, IIT Kanpur. It builds a Convolutional Neural Network (CNN) to classify images of people into two categories: Female or Male. The model is built from scratch and we've not used any pre-trained models to achieve the result. The model achieved an accuracy of __% on the training data.
+This project is a part of Winter Projects, 2024 by Institute Consulting group, IIT Kanpur. It builds a Convolutional Neural Network (CNN) to classify images of people into two categories: Female or Male. The model is built from scratch and we've not used any pre-trained models to achieve the result. The model achieved an accuracy of __% on the testing data.
 
 ## Features
 - Gender detection of images in test dataset and measurement of accuracy of the model!
@@ -33,3 +23,7 @@ The folder contains an ipynb file named model.ipynb which contains the complete 
 The Results folder contains the images of the results of our model on 20 images from test dataset, 2 custom images and 1 image from live gender detection.
 ### Live_Gender_Detection.mp4
 This is a video of the live gender detection feature in action with me being the subject of gender detection.
+
+##  Made by
+### Vivek Chandwani
+### Roll no. : 241183
