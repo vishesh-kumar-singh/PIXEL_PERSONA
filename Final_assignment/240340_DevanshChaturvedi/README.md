@@ -3,7 +3,7 @@
 ## About the project
 ### I have created a Gender Detection Model as a part of Winter Camp project "PIXEL PERSONA" that was conducted by ICG.
 ### This project detects gender of a person when an image is provided.
-### It involves the application of deep neural network. I first trained the model on 3000 images of males and females who were of varied ages and appearances. Then 20 images were passed in as input and the model predicted their gender accurately
+### It involves the application of deep neural network. I first trained the model on 3000 images of males and females who were of various ages and appearances. Then 20 images were passed in as input and the model predicted their gender accurately
 
 ## Libraries/Programming Language used
 ### Programming Language: Python
