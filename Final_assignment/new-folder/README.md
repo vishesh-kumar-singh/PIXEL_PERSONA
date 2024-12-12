@@ -45,5 +45,5 @@ This is a video of the live gender detection feature in action with me being the
 17. Code cell to predict gender for the captured image.
 
 ##  Made by
-**Vivek Chandwani**
+**Vivek Chandwani**<br>
 **Roll no. : 241183**
