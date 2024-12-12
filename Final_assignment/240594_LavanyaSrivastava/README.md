@@ -17,9 +17,11 @@ The sequenctial model was built using tensorflow and keras. The architecture of 
 - The second Conv2D layer has 64 filters and ReLU activation.
 - Finally, a Dense layer with a single unit and sigmoid activation is used for binary classification.
 
+The trained model weights can be downloaded from [Google Drive](https://drive.google.com/file/d/1LPNPLoSAv7eXvvIuimu-L7TXW7VmDtdY/view?usp=share_link)
+
 ## Results
 
-The model was trained for 3 epochs and achieved an accuracy of 0.96 on the test set. The confusion matrix is 
+The model was trained for 5 epochs and achieved an accuracy of 97.21% on the test set. The confusion matrix is 
 
 ![Confusion Matrix](confusion_matrix.png)
 
