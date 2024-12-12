@@ -27,7 +27,7 @@ Then for the live detection I used `VideoCapture` from openCV and for face detec
 ---
 
 ## Accuracy of Model
-So far I achieved an accuracy of `95.499%` over the test data of 2000 images which resulted in the following confusion matrix:  
+So far I achieved an accuracy of `95.499%` over the test data of 1000 unseen images which resulted in the following confusion matrix:  
 ![Confusion Matrix](Confusion-Matrix.png)
 
 ---
