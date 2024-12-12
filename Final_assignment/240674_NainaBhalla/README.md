@@ -2,6 +2,7 @@
 ## Naina Bhalla
 ## 240674
 The model identifies faces in an image use Haar Cascades and then classifies the faces into either male or female.
+(The final model that I have submitted can only be run on a local runtime.)
 
 ## Overview
 ### Dataset
@@ -34,6 +35,6 @@ The model gives 88.49% accuracy on the testing data and a loss of 0.30.
  ![multiple_faces_2](https://github.com/user-attachments/assets/ba0fda32-54a3-4866-b0b2-b193c0294ff3)
 
 ## Live Detetction
-This part only runs on a local runtime using a jupyter notebook. It switches on the webcam and then detects the gender of the person the the live feed.
+This part only runs on a local runtime using a jupyter notebook. It switches on the webcam and then detects the gender of the person on the live feed along with the probability of its prediction.
 
 
