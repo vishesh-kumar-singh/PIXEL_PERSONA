@@ -34,7 +34,7 @@ This is a video of the live gender detection feature in action with me being the
 ## Summary of the model
 **The numbers used here for reference are marked in each corresponding code cell.**
 1. Uploading the kaggle dataset
-2. Importing the required librarie and classes. (We will import more stuff as we move on with the code)
+2. Importing the required libraries and classes. (We will import more stuff as we move on with the code)
 3. Loading limited data from dataset folder into numpy arrays and changing all images to 64x64 size for uniformity. Combining the loaded male and female data and shuffling it.
 4. View some sample images from train dataset.
 5. Dividing training data into training and validation data.
@@ -54,3 +54,5 @@ This is a video of the live gender detection feature in action with me being the
 ##  Made by
 **Vivek Chandwani**<br>
 **Roll no. : 241183**
+[Linkedin](https://in.linkedin.com/in/vivek-chandwani-294a7a316)
+[Github](github.com/Vivek278)
