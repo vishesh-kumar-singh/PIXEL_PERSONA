@@ -53,6 +53,6 @@ This is a video of the live gender detection feature in action with me being the
 
 ##  Made by
 **Vivek Chandwani**<br>
-**Roll no. : 241183**
-[Linkedin](https://in.linkedin.com/in/vivek-chandwani-294a7a316)
+**Roll no. : 241183**<br>
+[Linkedin](https://in.linkedin.com/in/vivek-chandwani-294a7a316)<br>
 [Github](github.com/Vivek278)
